@@ -5,9 +5,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <main>
-        <Meme />
-      </main>
+      <Meme />
     </div>
   );
 }
